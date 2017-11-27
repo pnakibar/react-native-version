@@ -1,16 +1,16 @@
 {
   "default": {
     "CFBundleShortVersionString": {
-      "AwesomeProjectEssentials-tvOS": "0.0.2",
-      "AwesomeProjectEssentials-tvOSTests": "0.0.2",
-      "AwesomeProjectEssentials": "0.0.2",
-      "AwesomeProjectEssentialsTests": "0.0.2"
+      "AwesomeProject-tvOS": "0.0.2",
+      "AwesomeProject-tvOSTests": "0.0.2",
+      "AwesomeProject": "0.0.2",
+      "AwesomeProjectTests": "0.0.2"
     },
     "CFBundleVersion": {
-      "AwesomeProjectEssentials-tvOS": "2",
-      "AwesomeProjectEssentials-tvOSTests": "2",
-      "AwesomeProjectEssentials": "2",
-      "AwesomeProjectEssentialsTests": "2"
+      "AwesomeProject-tvOS": "2",
+      "AwesomeProject-tvOSTests": "2",
+      "AwesomeProject": "2",
+      "AwesomeProjectTests": "2"
     },
     "CURRENT_PROJECT_VERSION": "2",
     "version": "0.0.2",
@@ -19,16 +19,16 @@
   },
   "incrementBuild": {
     "CFBundleShortVersionString": {
-      "AwesomeProjectEssentials-tvOS": "1.0",
-      "AwesomeProjectEssentials-tvOSTests": "1.0",
-      "AwesomeProjectEssentials": "1.0",
-      "AwesomeProjectEssentialsTests": "1.0"
+      "AwesomeProject-tvOS": "1.0",
+      "AwesomeProject-tvOSTests": "1.0",
+      "AwesomeProject": "1.0",
+      "AwesomeProjectTests": "1.0"
     },
     "CFBundleVersion": {
-      "AwesomeProjectEssentials-tvOS": "2",
-      "AwesomeProjectEssentials-tvOSTests": "2",
-      "AwesomeProjectEssentials": "2",
-      "AwesomeProjectEssentialsTests": "2"
+      "AwesomeProject-tvOS": "2",
+      "AwesomeProject-tvOSTests": "2",
+      "AwesomeProject": "2",
+      "AwesomeProjectTests": "2"
     },
     "CURRENT_PROJECT_VERSION": "2",
     "version": "0.0.2",
@@ -37,16 +37,16 @@
   },
   "resetBuild": {
     "CFBundleShortVersionString": {
-      "AwesomeProjectEssentials-tvOS": "0.0.2",
-      "AwesomeProjectEssentials-tvOSTests": "0.0.2",
-      "AwesomeProjectEssentials": "0.0.2",
-      "AwesomeProjectEssentialsTests": "0.0.2"
+      "AwesomeProject-tvOS": "0.0.2",
+      "AwesomeProject-tvOSTests": "0.0.2",
+      "AwesomeProject": "0.0.2",
+      "AwesomeProjectTests": "0.0.2"
     },
     "CFBundleVersion": {
-      "AwesomeProjectEssentials-tvOS": "1",
-      "AwesomeProjectEssentials-tvOSTests": "1",
-      "AwesomeProjectEssentials": "1",
-      "AwesomeProjectEssentialsTests": "1"
+      "AwesomeProject-tvOS": "1",
+      "AwesomeProject-tvOSTests": "1",
+      "AwesomeProject": "1",
+      "AwesomeProjectTests": "1"
     },
     "CURRENT_PROJECT_VERSION": "1",
     "version": "0.0.2",
