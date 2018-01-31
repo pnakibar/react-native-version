@@ -391,7 +391,7 @@ function version(program, projectPath) {
 
 					case "postversion":
 					default:
-						child.execSync("git commit -a --amend --no-edit", gitCmdOpts);
+						child.execSync("git commit -a --amend --no-edit --no-verify", gitCmdOpts);
 
 						if (!programOpts.skipTag) {
 							log({ text: "Adjusting Git tag..." }, programOpts.quiet);
